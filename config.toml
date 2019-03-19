@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = "Computers, Big Data, Distributed Computing, Micro Services"
   images = [""]
 
-  homeSubtitle = "I Hack or Crack computers, Everything is 0's & 1's"
+  homeSubtitle = "Venkatesh Ramasamy"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
