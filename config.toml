@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Venkatesh Ramasamy"
+  name = "okay"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,8 +54,8 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Personal blog by venkatesh ramasamy"
-  keywords = ""
+  description = "Personal blog by Venkatesh Ramasamy"
+  keywords = "Computers, Big Data, Distributed Computing, Micro Services"
   images = [""]
 
   homeSubtitle = "Venkatesh Ramasamy"
@@ -105,7 +105,7 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "blah blah"
+    subtitle  = "Venkatesh Ramasamy"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
