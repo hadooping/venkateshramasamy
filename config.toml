@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[description]
+[author]
   name = "Venkatesh Ramasamy"
 
 [blackfriday]
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Personal blog by Venkatesh Ramasamy"
+  description = "I love computers and sometimes they love me back 💖"
   keywords = "Computers, Big Data, Distributed Computing, Micro Services"
   images = [""]
 
