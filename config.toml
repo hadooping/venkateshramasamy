@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "I hack or crack computers for living. Everything is 0's & 1's"
+  name = "Venkatesh Ramasamy"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -100,7 +100,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Venkatesh Ramasamy"
+    subtitle  = "afdsfsd"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
